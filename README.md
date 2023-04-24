@@ -35,7 +35,8 @@ If you have major coding issues with this bot, please join and ask for help.
 
 ## 💨 Run the projects
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdbortz%2FDiscord-MusicBot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdbortz%2FDiscord-MusicBot?ref=badge_shield)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
 [![Docker Pulls](https://img.shields.io/docker/pulls/darrenofficial/dmusicbot.svg)](https://hub.docker.com/r/darrenofficial/dmusicbot/)
@@ -53,3 +54,7 @@ Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONT
 > **Note:** Contributions are not accepted in the master branch. If you like to contribute check out [v5 branch](https://github.com/SudhanPlayz/Discord-MusicBot/tree/v5)
 
 Made with :heart: and JavaScript!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdbortz%2FDiscord-MusicBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdbortz%2FDiscord-MusicBot?ref=badge_large)
